@@ -33,18 +33,31 @@ Jupyter Notebook
 
 📂 Project Structure
 data-validation-project/
+
 │
+
 ├── data/
+
 │   └── amazon.csv
+
 │
+
 ├── great_expectations/
+
 │   ├── expectations/
+
 │   ├── validations/
+
 │   └── data_docs/
+
 │
+
 ├── data_validation_pipeline.ipynb
+
 ├── requirements.txt
+
 └── README.md
+
 
 📋 Validation Rules Implemented
 
